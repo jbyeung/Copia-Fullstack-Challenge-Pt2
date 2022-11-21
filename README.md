@@ -5,7 +5,6 @@ Start the backend first.  Then for the front-end:
 > yarn start
 
 
-
 # Copia React Challenge Project
 ### `yarn install`
 Installs the dependencies needed for this project.
