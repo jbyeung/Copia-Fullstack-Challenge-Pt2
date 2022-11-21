@@ -1,7 +1,9 @@
 # instructions
-Start the backend first.  Then for the front-end:
+Start the backend first.  Install:
 
 > yarn install
+
+To start:
 > yarn start
 
 
