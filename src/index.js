@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals'
 import { Provider } from 'react-redux'
 import configureCustomStore from './store/configureStore'
 
+
 const root = ReactDOM.createRoot(document.getElementById('root'))
 const store = configureCustomStore()
 

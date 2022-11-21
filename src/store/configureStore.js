@@ -1,6 +1,6 @@
 import { combineReducers } from 'redux'
 import { configureStore } from '@reduxjs/toolkit'
-import users from './usersSlice'
+import users from '../usersSlice'
 
 const configureCustomStore = preloadedState => {
   const rootReducer = combineReducers({ users })
